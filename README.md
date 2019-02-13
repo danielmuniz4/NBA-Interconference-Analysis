@@ -1,4 +1,5 @@
 # NBA-Interconference-Analysis
+by Giancarlo Banbaren, Gorav Gupta, Joshua Lugo, and Daniel Muniz
 
 An analysis on Interconference parity in the NBA, and its relationship with the interconference movement of players
 
